@@ -13,12 +13,13 @@ With this app, you can track incomes and expenses, calculate your total balance,
 
 ---
 
---- Personal Finance Tracker ---
+## --- Personal Finance Tracker ---
 1. Add Income
 2. Add Expense
 3. View Balance
 4. Show Transaction History
 5. Exit
+
 ➡️ Add income of $200
 ➡️ Add expense of $50
 ➡️ Check your balance: $150
